@@ -1,4 +1,4 @@
-# PSet 3
+# PSet3 - Design e desenvolvimento de banco de dados - UVV
 ### Aluno: Rafael Barcelos Ricarto
 ### Professor : Abrantes Araújo Lima
 #
